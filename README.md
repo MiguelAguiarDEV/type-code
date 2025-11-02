@@ -1,4 +1,4 @@
-# TypeCode
+# CodeType
 
 Una aplicación web moderna para practicar mecanografía escribiendo código real, inspirada en MonkeyType pero especializada en programación.
 

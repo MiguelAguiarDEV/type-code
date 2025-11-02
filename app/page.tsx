@@ -1,10 +1,12 @@
-
+import RootLayout from './layout';
 export default function Home() {
   return (
-    <div className="">
+    <RootLayout>
+      <div className="">
       <main className="">
         HOLA
       </main>
     </div>
+    </RootLayout>
   );
 }
